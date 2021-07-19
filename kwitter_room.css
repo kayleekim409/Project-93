@@ -1,0 +1,22 @@
+body {
+    background-color: lightcoral;
+}
+
+#logout {
+    margin-left: 1250px;
+    margin-top: 30px;
+}
+
+#username {
+    color: powderblue;
+    margin-left: 100px;
+}
+
+#roomname {
+    width: 600px;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
