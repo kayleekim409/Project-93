@@ -1,0 +1,17 @@
+body {
+    background-color: paleturquoise;
+}
+div {
+    width: 280px;
+    height: 250px;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 15%;
+    background-color: cornflowerblue;
+}
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
