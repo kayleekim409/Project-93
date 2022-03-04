@@ -1,5 +1,5 @@
 body {
-    background-color: lightcoral;
+    background-image: linear-gradient(lightgreen, lightblue);
 }
 
 #logout {
@@ -10,10 +10,12 @@ body {
 #username {
     color: powderblue;
     margin-left: 100px;
+    box-shadow: 10px 10px black;
 }
 
 #roomname {
     width: 600px;
+    
 }
 
 img {
