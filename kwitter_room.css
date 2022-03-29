@@ -1,22 +1,19 @@
 body {
-    background-image: linear-gradient(red, yellow, blue);
+    background-color: lightcoral;
 }
 
 #logout {
     margin-left: 1250px;
     margin-top: 30px;
-    font-family: "Monospace";
 }
 
 #username {
     color: powderblue;
     margin-left: 100px;
-    box-shadow: 10px 10px black;
 }
 
 #roomname {
     width: 600px;
-    
 }
 
 img {
